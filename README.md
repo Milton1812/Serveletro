@@ -4,7 +4,7 @@
 
 ## Developed for me!
 
-<a href="https://milton1812.github.io/Serveletro/#home" target="_blank">Link do projeto<a> 
+<a href="https://milton1812.github.io/Serveletro/" target="_blank">Link do projeto<a> 
 
 ## Desktop Version
   ![serveletro1 att-min](https://user-images.githubusercontent.com/103965008/167922678-e1b12070-68a1-4846-a772-fd2b08a28b8b.gif)
