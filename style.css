@@ -341,7 +341,6 @@ body.menu-expanded button {
 }
 
 /* ================ SERVIÇOS ========================= */
-
 #services .product {
   display: flex;
   flex-direction: column;
@@ -351,8 +350,9 @@ body.menu-expanded button {
   box-sizing: border-box;
 }
 
-#services img {
-  width: 70%;
+#services .product img {
+  width: 19.3rem;
+  height: 19.3rem;
   align-self: center;
 }
 

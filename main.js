@@ -98,10 +98,12 @@ ScrollReveal({
 const swiper = new Swiper('.swiper', {
   slidesPerView: 1,
   pagination: {
-    el: '.swiper-pagination'
+    el: '.swiper-pagination',
+    clickable: true
   },
-  effect: 'cards',
   grabCursor: true,
   mousewheel: true,
-  keyboard: true
+  keyboard: true,
+  observer: true,
+  observeParents: true
 })
