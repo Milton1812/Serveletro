@@ -104,6 +104,4 @@ const swiper = new Swiper('.swiper', {
   grabCursor: true,
   mousewheel: true,
   keyboard: true,
-  observer: true,
-  observeParents: true
 })
